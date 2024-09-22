@@ -1,6 +1,6 @@
 # Angular Pie Shop
 
-## NOTE ON STACKBLITZ:
+## NOTE ON STACKBLITZ: YP Edit
 
 Stackblitz is buggy with the current version of angular (16.2.7) and zone.js - This can cause errors when loading the main site and with images not loading - if you fork this repo it usually fixes the issues. _usually_
 
